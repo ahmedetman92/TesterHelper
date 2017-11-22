@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tester Helper</string>
+    <string name="select_image">Select Image</string>
+    <string name="selecting_title">Select Picture</string>
+    <string name="email_title">Issue Details</string>
+    <string name="share">Send</string>
+</resources>
